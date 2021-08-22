@@ -1,5 +1,4 @@
-@login_onurcan
-
+@smoke
 Feature: Login
 
   Background:

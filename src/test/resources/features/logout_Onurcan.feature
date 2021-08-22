@@ -1,3 +1,4 @@
+@smoke
 Feature: Log out
 
   @logout_onurcan
